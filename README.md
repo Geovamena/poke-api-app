@@ -1,3 +1,3 @@
 # Pokedex
 
-[DEMO](https://pokedex-geovannimena.netlify.app/)
+[DEMO](https://poke-app-geomena.netlify.app/)
